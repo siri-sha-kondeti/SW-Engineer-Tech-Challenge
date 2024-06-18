@@ -1,2 +1,6 @@
-pydicom
-pynetdicom
+aiohttp==3.8.1
+asyncio==3.4.3
+fastapi==0.68.0
+pydicom==2.2.2
+pynetdicom==1.5.4
+uvicorn==0.15.0
